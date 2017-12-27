@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println(hoge);
 
         System.out.println(hoge);
+
+        sc.close();
     }    
 }
